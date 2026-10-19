@@ -1,0 +1,5 @@
+{
+  "name": "Terrace Studio LMR",
+  "description": "Enable homeowners to optimize and design their rooftop terrace by calculating net usable space via CNN obstacle detection, configuring custom lifestyle zones (wellness decks, canopies, fire pits), sizing solar and rainwater harvesting systems with government subsidies, and generating curated marketplace procurement lists.",
+  "requestFramePermissions": []
+}
